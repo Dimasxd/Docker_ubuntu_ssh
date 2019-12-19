@@ -1,7 +1,7 @@
 #---------------------------------------------------------------------------
-# Dockefile to build Docker Image of OpenSSh-Server running on Ubuntu
+# Dockefile to build Docker Image of OpenSSH-Server running on Ubuntu
 #
-# Made by Dmitry Lobachev  18-Dec-2019
+# Made by Dmitry Lobachev  19-Dec-2019
 #---------------------------------------------------------------------------
 
 FROM ubuntu:latest
